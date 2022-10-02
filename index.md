@@ -1,2 +1,2 @@
 # **EDS 124BR PORTFOLIO**
-This is my EDS 124BR portfolio site.
+[Walkthrough: Sequencing](https://gjquach.github.io/eds124br-portfolio/week0.html)
