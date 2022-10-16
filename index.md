@@ -31,3 +31,4 @@ where I study computer science and compete on the NCAA DI women's volleyball tea
 - [Week 1: Walkthrough - Repeating](https://gjquach.github.io/eds124br-portfolio/week1.html)
 - [Week 2: Walkthrough - Repeats](https://gjquach.github.io/eds124br-portfolio/repeats.html)
 - [Week 2: Walkthrough - Animal Parade](https://gjquach.github.io/eds124br-portfolio/animalParade.html)
+- [Week 3: Walkthrough - Monkey](https://gjquach.github.io/eds124br-portfolio/monkey.html)
