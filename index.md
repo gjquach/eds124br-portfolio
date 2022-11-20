@@ -37,3 +37,4 @@ where I study computer science and compete on the NCAA DI women's volleyball tea
 - [Week 5: Walkthrough - Conditional Loops](https://gjquach.github.io/eds124br-portfolio/conditional.html)
 - [Week 6: Walkthrough - If Else](https://gjquach.github.io/eds124br-portfolio/if-else.html)
 - [Week 7: Walkthrough - Nested If Else](https://gjquach.github.io/eds124br-portfolio/nested-ifelse.html)
+- [Week 8: Walkthrough - Compound Conditionals](https://gjquach.github.io/eds124br-portfolio/cc.html)
